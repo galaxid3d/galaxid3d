@@ -1,5 +1,5 @@
 <h1 align="center">👋 𝙶𝚛𝚎𝚎𝚝𝚒𝚗𝚐𝚜! 𝙸'𝚖 galaxid3d</h1>
-<h3 align="center">Junior Developer 😸</h3>
+<h3 align="center">Python/Delphi Developer 😸</h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/H7llxoUnid1u27TkaH/giphy.gif" width="100"/>
