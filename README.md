@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 ---
-I am a Junior Developer <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" width="30" alt="">.
+I am a Python/Delphi Developer <img src="https://media.giphy.com/media/NbhiwA0C8THIv8KvG5/giphy.gif" width="30" alt="">.
   </div>
   
 - :telescope: Experience in writing high-performance generator programs in Python, Delphi, MAXScript.
